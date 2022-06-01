@@ -8,10 +8,12 @@ Clone the repository and open 3 terminal windows/tabs at the folder
 ### Step 2
 In the first terminal 
 `cd backend`
+
 `npm install`
 
 In the other 2 terminals
 `cd client`
+
 `npm install`
 
 If nodeJS throws peer deps error then add use
