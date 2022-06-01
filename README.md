@@ -29,3 +29,9 @@ In the browser go to
 [http://localhost:3007/](http://localhost:3007/) to chat as user 2
 
 ## ScreenShots
+### User 1
+![image](https://user-images.githubusercontent.com/86282256/171443658-88020cd0-b05e-421b-9b67-ebfb15f34a20.png)
+### User 2
+![image](https://user-images.githubusercontent.com/86282256/171443699-b8d55df0-5655-47d5-8526-f0a52dd83065.png)
+### Server
+![image](https://user-images.githubusercontent.com/86282256/171443854-06ff1764-9fe6-4990-b68e-cc59af467888.png)
